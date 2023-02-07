@@ -1,6 +1,6 @@
 Hi All,
 
-I am creating new Empty project from git.
+I am creating new Empty project from git. Adding new message form Github.
 
 Thanks,
 Sailu
