@@ -1,0 +1,6 @@
+Hi All,
+
+I am creating new Empty project from git.
+
+Thanks,
+Sailu
